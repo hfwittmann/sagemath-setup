@@ -11,7 +11,10 @@ This repository provides instructions for a docker setup to run yout own SageMat
 Prerequisites:
 
 - Hardware (typically eg a Notebook runnning Linux, MacOS or Windows)
-- An installation of docker
+- An installation of docker optinally git (for ease of use)
+- On windows: gitbash
+
+Remark : Run in the following always means run in bash (or gitbash)
 
 
 To run your SageMath
